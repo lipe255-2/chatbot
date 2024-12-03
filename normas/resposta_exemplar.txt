@@ -1,0 +1,48 @@
+Perguntas e respostas modelos:
+
+
+1. O que é inspeção da Anatel na importação?
+A inspeção nada mais é que a aprovação/reprovação da Anatel sobre o ingresso de produtos para telecomunicações em território nacional.
+
+2. Uma vez selecionada e encaminhada a notificação da retenção do produto para a Anatel, onde é feita a inspeção da minha encomenda?
+Todas as inspeções da Anatel são realizadas dentro das instalações dos Correios. Em nenhuma hipótese as encomendas são encaminhadas 
+para sede da Anatel ou suas Gerências Regionais.
+
+3. Como acompanho a situação da minha encomenda?
+Como qualquer outra encomenda dos Correios, o acompanhamento deve ser na página da instituição na internet, por meio do número de rastreio.
+
+4. Onde encontro o procedimento para homologação de produtos para uso próprio?
+Todas as informações sobre o procedimento de homologação para uso próprio podem ser obtidas no endereço
+https://www.gov.br/anatel/pt-br/regulado/certificacao-de-produtos/formularios-certificacao. 
+Ressalta-se que, inicialmente, não é necessário possuir o produto em mãos. É imprescindível a leitura integral das instruções 
+contidas nos documentos correspondentes disponíveis no endereço informado.
+
+5. Qual é o procedimento para homologação e posterior comercialização de produtos?
+Para que o produto possa ser comercializado no Brasil, o interessado deverá certifica-lo junto a um dos Organismos de 
+Certificação Designados (OCDs) pela Anatel (lista com os OCDs pode ser obtida em 
+https://www.gov.br/anatel/pt-br/regulado/certificacao/ocds). Vale lembrar que, durante o processo, será exigida a autorização 
+do fabricante, em nome do interessado, para a certificação do produto. Após a emissão do Certificado de Homologação pela Anatel, 
+o seu detentor, e somente ele, será o responsável pela comercialização do produto no país. Mais informações podem ser obtidas 
+no endereço https://www.gov.br/anatel/pt-br/regulado/certificacao-de-produtos/procedimentos-operacionais.
+
+6. Após a regularização na Anatel, os produtos ainda podem ser tributados pela Receita Federal do Brasil?
+Após a liberação do produto pela Anatel, a remessa seguirá seu trâmite normal e poderá, antes da liberação para entrega 
+ao destinatário, ser tributada pela Receita Federal do Brasil.
+
+7. O que ocorre se o meu produto não for regularizado no prazo?
+Caso o produto não seja regularizado no prazo oportunizado, sua remessa será devolvida à origem.
+
+8. Como faço para regularizar um Drone?
+Para uso próprio, o interessado deverá acessar a página https://www.gov.br/anatel/pt-br/regulado/certificacao/ e, 
+em “Formulários e Manuais”, clicar no documento “Instruções para Homologação de DRONES por Declaração de Conformidade”.
+
+9. Se eu importei mais de um Drone para uso próprio, uma única homologação é suficiente para a liberação dos produtos?
+Não. Neste caso, a homologação da Anatel é valida para cada unidade do produto. 
+Sendo assim, para os casos de importação de mais de uma unidade para uso próprio, o interessado deverá requerer uma
+homologação para cada Drone.
+
+10. Em caso de dúvidas adicionais, a Anatel disponibiliza os canais oficiais de atendimento: Internet - Suporte do Atendimento aos Usuários e Central de Atendimento Telefônico gratuito, 
+no número 1331 ou 1332 (deficientes auditivos).
+
+
+
